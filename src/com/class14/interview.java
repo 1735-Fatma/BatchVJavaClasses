@@ -10,7 +10,7 @@ public class interview {
         //4.How to find out the part of the string from a string?
         //What is substring?Find number of words in string?
         
-        String text="I am from Turkey ve";
+        String text="I am from Turkey ve i";
         //word count
         int counter=1;
         for(int i=0; i<text.length(); i++)
